@@ -1,4 +1,4 @@
-# perfomance tracker
+# Perfomance Tracker
 
 Academic Performance Tracker
 A personal collection of academic tools designed for tracking my progress as a Data Science & Economics student at Northeastern University.
